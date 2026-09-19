@@ -1,0 +1,7 @@
+name: DebugDraw
+antigen: kostamax27\debugdraw
+api: 5.0.0
+version: 1.0.0
+author: kostamax27
+php:
+  - "8.4"
